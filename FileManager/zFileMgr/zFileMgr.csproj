@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{102D2EDB-C538-4A38-B29D-AD43CF810073}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>zFileMgr</RootNamespace>
+    <AssemblyName>zFileManager</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashShop\AddCashShopCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashShop\AddCashShopCategory.Designer.cs">
+      <DependentUpon>AddCashShopCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashShop\CashShopCategory.cs" />
+    <Compile Include="CashShop\CashShopClass.cs" />
+    <Compile Include="ClientEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientEditor.Designer.cs">
+      <DependentUpon>ClientEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashShopEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashShopEditor.Designer.cs">
+      <DependentUpon>CashShopEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonEditor.Designer.cs">
+      <DependentUpon>CommonEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoToLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GoToLine.Designer.cs">
+      <DependentUpon>GoToLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemExcellentOptionEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemExcellentOptionEditor.Designer.cs">
+      <DependentUpon>ItemExcellentOptionEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemGlowEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemGlowEditor.Designer.cs">
+      <DependentUpon>ItemGlowEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuBMD\BuffEffect.cs" />
+    <Compile Include="MuBMD\ClientCommon.cs" />
+    <Compile Include="MuBMD\Credits.cs" />
+    <Compile Include="MuBMD\Gate.cs" />
+    <Compile Include="MuBMD\GenericFilter.cs" />
+    <Compile Include="MuBMD\BmdFile.cs" />
+    <Compile Include="MuBMD\HelpData.cs" />
+    <Compile Include="MuBMD\InfoTooltipText.cs" />
+    <Compile Include="MuBMD\Item.cs" />
+    <Compile Include="MuBMD\ItemAddOption.cs" />
+    <Compile Include="ItemEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemEditor.Designer.cs">
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuBMD\ItemExcellentOption.cs" />
+    <Compile Include="MuBMD\ItemGlow.cs" />
+    <Compile Include="MuBMD\ItemLevelTooltip.cs" />
+    <Compile Include="MuBMD\ItemSetOption.cs" />
+    <Compile Include="MuBMD\ItemSetOptionText.cs" />
+    <Compile Include="MuBMD\ItemSetType.cs" />
+    <Compile Include="MuBMD\ItemTooltipText.cs" />
+    <Compile Include="MuBMD\ItemTRSData.cs" />
+    <Compile Include="MuBMD\JewelOfHarmonyOption.cs" />
+    <Compile Include="MuBMD\MasterSkillTooltip.cs" />
+    <Compile Include="MuBMD\MasterSkillTreeData.cs" />
+    <Compile Include="MuBMD\Minimap.cs" />
+    <Compile Include="MuBMD\MonsterSkill.cs" />
+    <Compile Include="MuBMD\MoveReq.cs" />
+    <Compile Include="MuBMD\NPCDialog.cs" />
+    <Compile Include="MuBMD\NPCName.cs" />
+    <Compile Include="MuBMD\PetData.cs" />
+    <Compile Include="MuBMD\QuestWords.cs" />
+    <Compile Include="MuBMD\QuestProgress.cs" />
+    <Compile Include="MuBMD\ServerList.cs" />
+    <Compile Include="MuBMD\Skill.cs" />
+    <Compile Include="MuBMD\Slide.cs" />
+    <Compile Include="MuBMD\SocketItem.cs" />
+    <Compile Include="MuBMD\Text.cs" />
+    <Compile Include="MuGeneric\MuDef.cs" />
+    <Compile Include="NormalShopEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NormalShopEditor.Designer.cs">
+      <DependentUpon>NormalShopEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NormalShop\NormalShop.cs" />
+    <Compile Include="NormalShop\ShopItem.cs" />
+    <Compile Include="NSTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchOrReplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchOrReplace.Designer.cs">
+      <DependentUpon>SearchOrReplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="ThemeBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\Misc.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashShop\AddCashShopCategory.resx">
+      <DependentUpon>AddCashShopCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientEditor.resx">
+      <DependentUpon>ClientEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashShopEditor.resx">
+      <DependentUpon>CashShopEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonEditor.resx">
+      <DependentUpon>CommonEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GoToLine.resx">
+      <DependentUpon>GoToLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemExcellentOptionEditor.resx">
+      <DependentUpon>ItemExcellentOptionEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemGlowEditor.resx">
+      <DependentUpon>ItemGlowEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemEditor.resx">
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NormalShopEditor.resx">
+      <DependentUpon>NormalShopEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchOrReplace.resx">
+      <DependentUpon>SearchOrReplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICON.ico" />
+    <Content Include="Readme.txt" />
+    <None Include="Resources\Page_Right_State1.png" />
+    <None Include="Resources\Page_Left_State1.png" />
+    <None Include="Resources\Category_Sub_State1.png" />
+    <None Include="Resources\UnknownItem.png" />
+    <None Include="Resources\Category_Head_State1.png" />
+    <None Include="Resources\Background.jpg" />
+    <None Include="Resources\PcVJzDSV3g8.jpg" />
+    <None Include="Resources\zFileManager.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

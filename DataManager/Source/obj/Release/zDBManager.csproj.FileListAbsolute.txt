@@ -1,0 +1,121 @@
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.csproj.GenerateResource.Cache
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\bin\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\bin\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\bin\Release\zDBManager.exe.config
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Account.AccountEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Account.Premium.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Account.Warehouse.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Character.Create.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Character.Editor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Character.Item.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Character.SkillsEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Find.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Form1.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.CharPanel.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.EquipEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.EquipPanel.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.EquipProperty.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.LogWindow.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Properties.Resources.resources
+C:\Users\DarkSim\Desktop\TitanEditor\SCFEditor\obj\Release\zDBManager.Settings.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\bin\Release\zDBManager.exe.config
+C:\Users\DarkSim\Desktop\TitanEditor\Source\bin\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\TitanEditor\Source\bin\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Account.AccountEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Account.Premium.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Account.Warehouse.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Character.Create.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Character.Editor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Character.Item.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Character.SkillsEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Find.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Form1.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.CharPanel.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.EquipEditor.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.EquipPanel.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.EquipProperty.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.LogWindow.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Properties.Resources.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.Settings.resources
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.csproj.GenerateResource.Cache
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\TitanEditor\Source\obj\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\bin\Release\zDBManager.exe.config
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\bin\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Account.AccountEditor.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Account.Premium.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Account.Warehouse.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Character.Create.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Character.Editor.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Character.Item.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Character.SkillsEditor.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Find.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Form1.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.CharPanel.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.EquipEditor.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.EquipPanel.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.EquipProperty.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.LogWindow.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Properties.Resources.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.Settings.resources
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.csproj.GenerateResource.Cache
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\bin\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Job\TitanEditor\Source\obj\Release\zDBManager.About.resources
+C:\Job\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.exe.config
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.exe
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.pdb
+C:\Job\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.exe
+C:\Job\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.pdb
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\ResolveAssemblyReference.cache
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.About.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.AccountEditor.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.Premium.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.Warehouse.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Create.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Editor.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Item.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.SkillsEditor.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Find.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Form1.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.CharPanel.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipEditor.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipPanel.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipProperty.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.LogWindow.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Properties.Resources.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Settings.resources
+C:\Job\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.csproj.GenerateResource.Cache
+C:\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.exe.config
+C:\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.exe
+C:\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.exe.config
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.exe
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\bin\Release\zDBManager.pdb
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.About.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.AccountEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.Premium.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Account.Warehouse.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Create.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Editor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.Item.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Character.SkillsEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Find.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Form1.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.CharPanel.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipPanel.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.EquipProperty.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.LogWindow.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Properties.Resources.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.Settings.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zDBManager\Source\obj\Release\zDBManager.csproj.GenerateResource.Cache

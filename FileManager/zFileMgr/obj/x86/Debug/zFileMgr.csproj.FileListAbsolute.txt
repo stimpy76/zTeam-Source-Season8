@@ -1,0 +1,48 @@
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\bin\Debug\zFileMgr.exe
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\bin\Debug\zFileMgr.pdb
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\zFileMgr.ClientEditor.resources
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\zFileMgr.Main.resources
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\zFileMgr.Properties.Resources.resources
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\zFileMgr.exe
+D:\Work\mu\zTeam\zFileMgr\zFileMgr\obj\x86\Debug\zFileMgr.pdb
+C:\Users\DarkSim\Desktop\Job\zFileManager_Latest\zFileMgr\bin\Debug\zFileManager.exe.config
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.exe.config
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.AboutBox.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.CashShop.AddCashShopCategory.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.ClientEditor.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.mainform.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.GoToLine.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.Main.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.NormalShopEditor.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.Properties.Resources.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.SearchOrReplace.resources
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.csproj.GenerateResource.Cache
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.exe
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.pdb
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileManager.exe
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileManager.pdb
+C:\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.MuBMD.ItemEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.exe.config
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileManager.exe
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileManager.pdb
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.exe
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\bin\Debug\zFileManager.pdb
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.AboutBox.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.CashShop.AddCashShopCategory.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.ClientEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.mainform.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.GoToLine.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.Main.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.NormalShopEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.Properties.Resources.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.SearchOrReplace.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.csproj.GenerateResource.Cache
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.ItemEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.ItemGlowEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.CommonEditor.resources
+C:\Users\DarkSim\Desktop\Migration\Job\zTeam\MU\Development\Season 8\Source\zFileManager\zFileMgr\obj\x86\Debug\zFileMgr.ItemExcellentOptionEditor.resources
